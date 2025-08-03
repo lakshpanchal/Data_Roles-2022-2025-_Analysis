@@ -5,3 +5,4 @@ mysql-connector-python
 watchdog
 plotly
 numpy
+scikit-learn
