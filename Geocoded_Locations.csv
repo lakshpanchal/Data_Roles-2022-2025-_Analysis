@@ -1,0 +1,425 @@
+location,Latitude,Longitude
+" california, united states",36.7014631,-118.755997
+" stockholm, sweden",59.3251172,18.0710935
+" wisconsin, united states",44.4308975,-89.6884637
+" ohio, united states",40.2253569,-82.6881395
+" virginia, united states",37.1232245,-78.4927721
+" washington, united states",38.8950368,-77.0365427
+" greater london, united kingdom",51.4893335,-0.1440551
+" zuid-holland, netherlands",51.9966792,4.5597397
+" new york, united states",40.7127281,-74.0060152
+" missouri, united states",38.7604815,-92.5617875
+" indiana, united states",40.3270127,-86.1746933
+" arkansas, united states",35.2048883,-92.4479108
+" tennessee, united states",35.7730076,-86.2820081
+" georgia, united states",32.3293809,-83.1137366
+" pennsylvania, united states",40.9699889,-77.7278831
+" connecticut, united states",41.6500201,-72.7342163
+" new jersey, united states",40.0757384,-74.4041622
+" colorado, united states",38.7251776,-105.607716
+" alabama, united states",33.2588817,-86.8295337
+" maryland, united states",39.5162401,-76.9382069
+" massachusetts, united states",42.3788774,-72.032366
+" noord-brabant, netherlands",51.6017723,5.4441391
+" illinois, united states",40.0796606,-89.4337288
+" dublin, ireland",53.3493795,-6.2605593
+" minnesota, united states",45.9896587,-94.6113288
+" florida, united states",27.7567667,-81.4639835
+" warwickshire, united kingdom",52.3213064,-1.5536906
+" texas, united states",31.2638905,-98.5456116
+" geneva, switzerland",46.2017559,6.1466014
+" aquitaine, france",44.2462064,-0.1839979
+" hampshire, united kingdom",51.0449814,-1.2433133
+" rhode island, united states",41.7962409,-71.5992372
+" maharashtra, india",18.9068356,75.6741579
+" north carolina, united states",35.6729639,-79.0392919
+" kentucky, united states",37.5726028,-85.1551411
+" nebraska, united states",41.7370229,-99.5873816
+" zurich, switzerland",47.3744489,8.5410422
+" kansas, united states",38.27312,-98.5821872
+" utah, united states",39.4225192,-111.714358
+" ontario, canada",50.000678,-86.000977
+" surrey, united kingdom",51.2715316,-0.3414524
+" delaware, united states",38.6920451,-75.4013315
+" hessen, germany",50.6080651,9.0284647
+" karnataka, india",14.5203896,75.7223521
+" alberta, canada",55.001251,-115.002136
+" rheinland-pfalz, germany",49.9531599,7.310646
+" michigan, united states",43.6211955,-84.6824346
+" louisiana, united states",30.8703881,-92.007126
+" district of columbia, united states",38.8950368,-77.0365427
+" arizona, united states",34.395342,-111.763275
+" uusimaa, finland",60.2246684,25.1272631
+" moscow city, russia",55.7477043,37.5318626
+" oklahoma, united states",34.9550817,-97.2684063
+" vaud, switzerland",46.6356963,6.5320717
+" basque country, spain",42.7286531,-1.9738375
+" south carolina, united states",33.6874388,-80.4363743
+" bayern, germany",48.9467562,11.4038717
+" north rhine-westphalia, germany",51.4789205,7.5543751
+" provence-alpes-cote d'azur, france",44.0580563,6.0638506
+" quebec, canada",52.4760892,-71.8258668
+" île-de-france, france",48.6443057,2.7537863
+" ile-de-france, france",48.6443057,2.7537863
+" noord-holland, netherlands",52.7212825,4.820665
+" iowa, united states",41.9216734,-93.3122705
+" zug, switzerland",47.1486137,8.5539378
+" buckinghamshire, united kingdom",51.840894,-0.8998074
+" new hampshire, united states",43.4849133,-71.6553992
+" utrecht, netherlands",52.0907006,5.1215634
+" catalonia, spain",41.8523094,1.5745043
+" stockholms lan, sweden",59.3954053,18.6652695
+" buenos aires f.d., argentina",-33.3093005,-66.3313367
+" south dakota, united states",44.6471761,-100.348761
+" british columbia, canada",55.001251,-125.002441
+" nevada, united states",39.5158825,-116.853722
+" hillingdon, united kingdom",51.5425193,-0.4483349
+" salzburg, austria",47.7981346,13.0464806
+" sao paulo, brazil",-23.5506507,-46.6333824
+" aichi, japan",34.9991645,137.254574
+" hauts-de-seine, france",48.8401859,2.19863
+" bavaria, germany",48.9467562,11.4038717
+" vaestra goetaland, sweden",58.2158502,12.6518208
+" aberdeen city, united kingdom",57.1482429,-2.0928095
+" london, united kingdom",51.4893335,-0.1440551
+" ōsaka, japan",34.6937569,135.5014539
+" sandwell, united kingdom",52.5148466,-2.0134889
+" nordrhein-westfalen, germany",51.4789205,7.5543751
+" tokyo, japan",35.6768601,139.7638947
+" west virginia, united states",38.4758406,-80.8408415
+" oregon, united states",43.9792797,-120.737257
+" lazio, italy",41.9808038,12.7662312
+" lombardia, italy",45.5703694,9.7732524
+" kirklees, united kingdom",53.6422635,-1.7809433
+" nottingham, united kingdom",52.9534193,-1.1496461
+" lower saxony, germany",52.8398531,9.075962
+" queensland, australia",-22.1646782,144.5844903
+" sor-trondelag fylke, norway",64.3451806,10.4161559
+" balearic islands, spain",39.613432,2.8829185
+" ille-et-vilaine, france",48.1727681,-1.6498092
+" budapest, hungary",47.4978789,19.0402383
+" alaska, united states",64.4459613,-149.680909
+" veneto, italy",45.6476663,11.8665254
+" tamil nadu, india",10.9094334,78.3665347
+" gauteng, south africa",-25.9363439,28.0813105
+" west sussex, united kingdom",50.9445845,-0.5278477
+" hesse, germany",50.6080651,9.0284647
+" birmingham, united kingdom",52.4796992,-1.9026911
+" paraíba, brazil",-7.1219366,-36.7246845
+" reading, united kingdom",51.4514953,-0.9836342
+" lisboa, portugal",38.7077507,-9.1365919
+" hertfordshire, united kingdom",51.8400523,-0.0978552
+" kent, united kingdom",51.2070748,0.7210362
+" distrito especial, colombia",3.8881929,-77.0738324
+" bretagne, france",48.2640845,-2.9202408
+" essex, united kingdom",51.7704679,0.4646698
+" berlin, germany",52.510885,13.3989367
+" syddanmark, denmark",55.3784263,9.1318064
+" south gloucestershire, united kingdom",51.5491916,-2.4809528
+" bristol, united kingdom",51.4538022,-2.5972985
+" gujarat, india",22.3850051,71.745261
+" antioquia, colombia",7.0000085,-75.5000086
+" brittany, france",48.2640845,-2.9202408
+" manila, philippines",14.5904492,120.9803621
+" madrid, spain",40.4167047,-3.7035825
+" hertford, united kingdom",51.7957409,-0.078521
+" maine, united states",45.709097,-68.8590201
+" oslo, norway",59.9133301,10.7389701
+" liguria, italy",44.4777617,8.7026296
+" manchester, united kingdom",53.4794892,-2.2451148
+" leeds, united kingdom",53.7974185,-1.5437941
+" glasgow city, united kingdom",55.8555116,-4.2262307
+" liverpool, united kingdom",53.4071991,-2.99168
+" west-vlaanderen, belgium",51.0404747,2.9994213
+" eastern cape, south africa",-32.2171831,26.6386401
+" harjumaa, estonia",59.409009,24.7369572
+" central and western district, hong kong",22.2748365,114.1487373
+" punjab, pakistan",31.0,72.0
+" saskatchewan, canada",55.5321257,-106.141224
+" idaho, united states",43.6447642,-114.015407
+" cardiff, united kingdom",51.4816546,-3.1791934
+" new mexico, united states",34.5802074,-105.996047
+" andalucia, spain",37.3399964,-4.5811614
+" gelderland, netherlands",52.1014041,5.9515701
+" jalisco, mexico",20.3333331,-103.6666671
+" telangana, india",17.8495919,79.1151663
+" uttar pradesh, india",27.1303344,80.859666
+" alpes-maritimes, france",43.9210587,7.1790785
+" central serbia, serbia",43.6642492,20.9906824
+" the scottish borders, united kingdom",55.583333,-2.833333
+" edinburgh, united kingdom",55.9533456,-3.1883749
+" piedmont, italy",45.060735,7.923549
+" krasnodar, russia",45.0351532,38.9772396
+" haryana, india",29.0,76.0
+" anhui, china",32.0,117.0
+" canterbury, new zealand",-43.4941762,171.8098448
+" overijssel, netherlands",52.4254143,6.4610611
+" cesar, colombia",9.3333415,-73.5000086
+" parana, brazil",-24.4842187,-51.8148872
+" al qahirah, egypt",30.0443879,31.2357257
+" skåne, sweden",55.8479416,13.6337117
+" hauts-de-france, france",50.1024606,2.7247515
+" bath and north east somerset, united kingdom",51.3563238,-2.4866614
+" montana, united states",47.3752671,-109.638757
+" new south wales, australia",-31.8759835,147.2869493
+" east sussex, united kingdom",50.9404266,0.3699978
+" act, australia",-35.4883502,149.0026942
+" sheffield, united kingdom",53.3806626,-1.4702278
+" wirral, united kingdom",53.3409714,-3.0500916
+" victoria, australia",-36.5986096,144.6780052
+" sverdlovsk, russia",56.839104,60.60825
+" tel aviv, israel",32.0852997,34.7818064
+" montevideo, uruguay",-34.9058916,-56.1913095
+" madhya pradesh, india",23.8143419,77.5340719
+" rhone-alpes, france",45.3175313,5.7212944
+" capital region, denmark",64.146742,-21.92952
+" santiago metropolitan, chile",-33.4420638,-70.6456647
+" chongqing, china",30.05518,107.8748712
+" jakarta raya, indonesia",-6.2714155,106.7524204
+" wiltshire, united kingdom",51.324162,-1.9032487
+" istanbul, turkey",41.006381,28.9758715
+" derby, united kingdom",52.9142235,-1.4719885
+" mazovia, poland",52.5461934,21.2073404
+" tehrān, iran",35.6892523,51.3896004
+" mississippi, united states",32.9715285,-89.7348497
+" baden-wurttemberg, germany",48.53775,9.041169
+" somerset, united kingdom",51.1617509,-3.0753867
+" west berkshire, united kingdom",51.4463134,-1.275882
+" al jizah, egypt",29.9870753,31.2118063
+" gloucestershire, united kingdom",51.7643786,-2.1880662
+" iasi, romania",47.1615598,27.5837814
+" gateshead, united kingdom",54.9625789,-1.6019294
+" wellington, new zealand",-41.2887953,174.7772114
+" toscana, italy",43.4586541,11.1389204
+" antwerpen, belgium",51.2211097,4.3997081
+" cheshire west and chester, united kingdom",53.1637979,-2.7285361
+" tuscany, italy",43.4586541,11.1389204
+" troms, norway",69.5311071,19.5296839
+" cheshire, united kingdom",53.2141028,-2.4717701
+" kyyiv, ukraine",50.4500336,30.5241361
+" nouvelle-aquitaine, france",45.4039367,0.3756199
+" lancashire, united kingdom",53.8611712,-2.5650945
+" hainaut, belgium",50.36192,4.125217
+" south australia, australia",-30.5343665,135.6301212
+" niedersachsen, germany",52.8398531,9.075962
+" schleswig-holstein, germany",54.1853998,9.8220089
+" north dakota, united states",47.6201461,-100.540737
+" kyiv city, ukraine",50.4462474,30.520873
+" huila, colombia",2.4738993,-75.5900113
+" hawaii, united states",19.5938015,-155.4283701
+" england, united kingdom",52.5310214,-1.2649062
+" west lothian, united kingdom",55.916667,-3.5
+" kogi, nigeria",7.7949602,6.6868669
+" dolnoslaskie, poland",50.9206028,16.4946351
+" brandenburg, germany",52.8455492,13.2461296
+" lisbon, portugal",38.7077507,-9.1365919
+" cheshire east, united kingdom",53.1673422,-2.2928803
+" santa fe, argentina",-30.3154739,-61.1645076
+" estado de mexico, mexico",19.4839446,-99.6899716
+" western australia, australia",-25.2303005,121.0187246
+" luanda, angola",-8.8272699,13.2439512
+" central visayas, philippines",10.4734504,123.8648083
+" beijing, china",40.190632,116.412144
+" staffordshire, united kingdom",52.8246942,-2.0074547
+" latium, italy",41.9808038,12.7662312
+" grand est, france",48.4845157,6.113035
+" barcelona, spain",41.3825802,2.177073
+" northern ostrobothnia, finland",64.9521512,25.6968812
+" primorsko-goranska, croatia",45.4225937,14.6172032
+" newcastle upon tyne, united kingdom",54.9738474,-1.6131572
+" north tyneside, united kingdom",55.0297994,-1.508256
+" nagano, japan",36.1143945,138.0319015
+" cordoba, argentina",-31.4166867,-64.1834193
+" karpoš, macedonia",42.0062279,21.3862569
+" vienna, austria",48.2083537,16.3725042
+" anglesey, united kingdom",53.2782257,-4.3319194
+" puebla, mexico",18.833333,-98.0
+" delhi, india",28.6328027,77.2197713
+" vastra gotaland, sweden",58.2158502,12.6518208
+" lombardy, italy",45.5703694,9.7732524
+" portalegre, portugal",39.2076447,-7.7215134
+" auckland, new zealand",-36.852095,174.7631803
+" gorj, romania",44.9611675,23.3256799
+" riga, latvia",56.9493977,24.1051846
+" pembroke, malta",35.9281313,14.4795722
+" distrito nacional, dominican republic",18.4853599,-69.9299587
+" rotherham, united kingdom",53.4310417,-1.355187
+" devon, united kingdom",50.7241405,-3.6607788
+" wyoming, united states",43.1700264,-107.568534
+" brussels hoofdstedelijk gewest, belgium",50.8387951,4.3753041
+" vasternorrlands lan, sweden",63.0589693,18.1013686
+" oost-vlaanderen, belgium",51.0375423,3.811783
+" hamilton, bermuda",32.2942679,-64.7853167
+" cambridgeshire, united kingdom",52.333333,0.083333
+" punjab, india",30.9293211,75.5004841
+" sachsen-anhalt, germany",51.9280976,11.6812243
+" cork, ireland",51.8985136,-8.4726423
+" murcia, spain",37.9923795,-1.1305431
+" san salvador, el salvador",13.6989939,-89.1914249
+" lima region, peru",-11.1098913,-77.6107109
+" pays de la loire, france",47.6594864,-0.8186143
+" north holland, netherlands",52.7212825,4.820665
+" emilia-romagna, italy",44.525696,11.039437
+" western, sri lanka",6.8275297,79.931296
+" lima, peru",-12.0621065,-77.0365256
+" nairobi area, kenya",-0.2952892,36.1219804
+" seoul-t'ukpyolsi, south korea",,
+" western cape, south africa",-33.546977,20.72753
+" north brabant, netherlands",51.6017723,5.4441391
+" mazowieckie, poland",52.5461934,21.2073404
+" espirito santo, brazil",-19.5687682,-40.1721991
+" abu dhabi, united arab emirates",24.4538352,54.3774014
+" wallonia, belgium",50.1545523,5.3992119
+" friuli venezia giulia, italy",46.151042,13.055904
+" occitanie, france",43.6487851,2.3435684
+" dubai, united arab emirates",25.0742823,55.1885387
+" chiapas, mexico",16.5000001,-92.5000001
+" rio de janeiro, brazil",-22.9110137,-43.2093727
+" limburg, belgium",50.9977937,5.4453575
+" redbridge, united kingdom",51.5763203,0.0454097
+" valencia, spain",39.4697065,-0.3763353
+" st.-petersburg, russia",59.938732,30.316229
+" lublin, poland",51.2181945,22.5546776
+" niigata, japan",37.6452283,138.7669125
+" hamburg, germany",53.550341,10.000654
+" cairo, egypt",30.0443879,31.2357257
+" dhaka, bangladesh",23.7643863,90.3890144
+" krung thep, thailand",13.7524938,100.4935089
+" hordaland, norway",59.9481063,6.5835956
+" lodzkie, poland",51.4721678,19.3460637
+" attiki, greece",37.9995283,23.722839
+" kuala lumpur, malaysia",3.1526589,101.7022205
+" bursa, turkey",39.9895878,28.8944669
+" moscow, russia",55.625578,37.6063916
+" comunidad valenciana, spain",39.6819591,-0.7654406
+" sicily, italy",37.587794,14.155048
+" nidwalden, switzerland",46.942756,8.4119773
+" grand casablanca, morocco",33.5958157,-7.6037351
+" san luis potosi, mexico",22.5000001,-100.4949145
+" brussels capital, belgium",50.8387951,4.3753041
+" thessaloniki, greece",40.6403167,22.9352716
+" belfast, united kingdom",54.5975804,-5.9277097
+" bratislavský, slovakia",48.3304055,17.1794402
+" cornwall, united kingdom",50.4433489,-4.6246566
+" bucuresti, romania",44.4361414,26.1027202
+" dundee city, united kingdom",56.473846,-2.966419
+" bedfordshire, united kingdom",52.0640034,-0.4111138
+" luton, united kingdom",51.891073,-0.4230304
+" halton, united kingdom",53.3538525,-2.7427829
+" distrito federal, mexico",19.3207722,-99.1514678
+" andalusia, spain",37.3399964,-4.5811614
+" santa catarina, brazil",-27.0628367,-51.114965
+" mendoza, argentina",-34.787093,-68.4381868
+" vermont, united states",44.5990718,-72.5002608
+" lesser poland voivodeship, poland",49.790952,20.3793521
+" jūrmala, latvia",56.9727164,23.7886979
+" city of zagreb, croatia",45.8130967,15.9772795
+" sachsen, germany",50.9295798,13.4585052
+" north yorkshire, united kingdom",54.1345327,-1.4986285
+" quintana roo, mexico",19.6666671,-88.5000001
+" northamptonshire, united kingdom",52.3106138,-0.865913
+" fife, united kingdom",56.3333331,-3.0000001
+" greater poland, poland",52.1458506,17.397672
+" central region, uganda",0.2815436,32.6270774
+" nei mongol, china",43.2443242,114.3251664
+" milton keynes, united kingdom",52.0406502,-0.7594092
+" abruzzi, italy",42.4687934,13.5631284
+" oxfordshire, united kingdom",51.833333,-1.25
+" central jutland, denmark",56.2356483,9.234625
+" wien, austria",48.2083537,16.3725042
+" northern territory, australia",-19.8516101,133.2303375
+" federation of b&h, bosnia and herzegovina",,
+" kowloon city, hong kong",22.3301595,114.1899368
+" michoacan, mexico",19.207098,-101.878113
+" swindon, united kingdom",51.5615327,-1.7854322
+" attica, greece",37.7561803,23.6669006
+" luxembourg, luxembourg",49.8158683,6.1296751
+" andhra pradesh, india",15.9240905,80.1863809
+" jiangsu, china",33.0000001,119.9999999
+" buskerud, norway",60.2497876,8.9627868
+" suffolk, united kingdom",52.2410014,1.0465716
+" dubrovacko-neretvanska, croatia",42.8143166,17.3746628
+" north east lincolnshire, united kingdom",53.5368033,-0.093681
+" umbria, italy",42.965916,12.490236
+" braila, romania",45.2716092,27.9742932
+" makkah, saudi arabia",21.420847,39.826869
+" worcestershire, united kingdom",52.2109495,-2.1569555
+" apulia, italy",40.9842539,16.6210027
+" hamerkaz, israel",32.2230422,34.9986992
+" limburg, netherlands",51.2015196,5.9046302
+" capital, venezuela",-24.8115769,-65.3798371
+" srspka, bosnia and herzegovina",,
+" xinjiang, china",42.4804953,85.4633464
+" alsace, france",50.7007285,3.160983
+" nuevo leon, mexico",26.2384363,-99.8873
+" yucatan, mexico",20.6845957,-88.8755669
+" bourgogne, france",47.2780872,4.2224863
+" ad dawhah, qatar",,
+" manisa, turkey",38.8574402,28.0565711
+" beau vallon, seychelles",-4.6055333,55.4354847
+" buenos aires, argentina",-34.6083696,-58.4440583
+" san jose, costa rica",9.9325427,-84.0795782
+" brighton and hove, united kingdom",50.8453169,-0.1497469
+" nord-pas-de-calais, france",50.5289634,2.4545158
+" nct, india",14.2562138,80.114773
+" vlaams-brabant, belgium",50.8686516,4.7886238
+" panama, panama",8.559559,-81.1308434
+" baden-wuerttemberg, germany",48.53775,9.041169
+" baden-württemberg region, germany",49.4495508,9.6124434
+" timis, romania",45.63984,21.2599292
+" trentino-alto adige, italy",46.441472,11.282121
+" selangor, malaysia",3.2083304,101.304146
+" sunderland, united kingdom",54.9058512,-1.3828727
+" prince edward island, canada",46.3355508,-63.1466676
+" varna, bulgaria",43.2073873,27.9166653
+limited public info ð presumed usa-based,,
+" west bank, palestine",31.8475659,35.2302307
+" metro manila, philippines",14.5736108,121.0329706
+" tūnis, tunisia",33.8439408,9.400138
+" midi-pyrenees, france",43.8004082,-0.2589253
+" kabol, afghanistan",34.5266431,69.1849082
+" manitoba, canada",55.001251,-97.001038
+" leinster, ireland",53.118465,-6.9918183
+" rajshahi division, bangladesh",24.6285432,89.0376862
+" vilniaus apskritis, lithuania",54.8227227,25.2496682
+" rogaland, norway",58.9363137,5.8058786
+" wakefield, united kingdom",53.6829541,-1.4967286
+" davao city, philippines",7.0648306,125.6080623
+" auvergne-rhône-alpes, france",45.2968119,4.6604809
+" namur, belgium",50.4665284,4.8661892
+" central singapore, singapore",1.296168,103.8500437
+" ariana, tunisia",36.9685735,10.1219855
+" kanagawa, japan",35.4342935,139.374753
+" ha noi, vietnam",21.0283334,105.854041
+" upper austria, austria",48.25,14.0
+" hordaland fylke, norway",59.9481063,6.5835956
+" mie, japan",34.7339685,136.5154489
+" fct, nigeria",9.0643305,7.4892974
+" a coruña, spain",43.3709703,-8.3959425
+" valais, switzerland",46.2303063,7.6605757
+" zhejiang, china",29.0000001,119.9999999
+" liege, belgium",50.4708159,5.7735459
+" aargau, switzerland",47.412396,8.1948321
+" sindh, pakistan",25.5,69.0
+" nuevo león, mexico",26.2384363,-99.8873
+" taiwan, taiwan",23.9739374,120.9820179
+" flevoland, netherlands",52.4484375,5.4235397
+" ar riyāḑ, saudi arabia",23.333333,45.333333
+" bahia, brazil",-12.285251,-41.9294776
+" vestfold, norway",59.1954857,10.2662616
+" abruzzo, italy",42.227681,13.854983
+" kerala, india",10.3528744,76.5120396
+" normandy, france",49.0677708,0.3138532
+" powys, united kingdom",52.3271499,-3.3553352
+" antrim and newtownabbey, united kingdom",54.6951611,-5.9469656
+" region metropolitana, chile",-33.5739341,-70.6205518
+" dushet'is raioni, georgia",,
+" midtjylland, denmark",56.2356483,9.234625
+" almaty qalasy, kazakhstan",43.2363924,76.9457275
+" haut-rhin, france",47.8654746,7.2315433
+" centre, france",47.5490251,1.7324062
+" yerushalayim, israel",31.7788472,35.2257856
+" aragon, spain",41.3787291,-0.7639373
+" the marches, italy",,
+" east flanders province, belgium",,
+" pichincha, ecuador",-0.0584893,-78.3284371
