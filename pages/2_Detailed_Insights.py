@@ -1,23 +1,17 @@
-from ast import Str
-from numpy.matlib import str_
-from pandas.core.strings.accessor import str_extractall
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from sqlalchemy import create_engine
 from sklearn.linear_model import LinearRegression
 import numpy as np
 
-engine  = create_engine("mysql+mysqlconnector://root:Laksh2005@127.0.0.1/data_roles")
+
 def load_data():
-    query = "Select * FROM exploded_final_data"
-    return pd.read_sql(query,engine)
+    return pd.read_csv("Final_data.csv")
 df = load_data()
 filtered_df = df.copy()
 
 def load_month_data():
-    query = "Select * FROM data_roles_analysis"
-    return pd.read_sql(query,engine)
+    return pd.read_csv("data_roles_analysis.csv")
 data_df = load_month_data()
 
 

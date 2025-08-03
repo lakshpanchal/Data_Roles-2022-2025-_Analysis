@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from sqlalchemy import create_engine
 
 # configure setup
 st.set_page_config(page_title = 'Job Roles Dashboard',layout = 'wide')
@@ -9,10 +8,8 @@ st.set_page_config(page_title = 'Job Roles Dashboard',layout = 'wide')
 
 
 # connect to mysql database
-engine  = create_engine("mysql+mysqlconnector://root:Laksh2005@127.0.0.1/data_roles")
 def load_data():
-    query = "Select * FROM exploded_final_data"
-    return pd.read_sql(query,engine)
+    return pd.read_csv("Final_data.csv")
 df = load_data()
 filtered_df = df.copy()
 
